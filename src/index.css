@@ -1,0 +1,34 @@
+#nav-all {
+  display: flex;
+  background-color: #2465ce;
+  justify-content: space-between;
+}
+#nav-items {
+  padding: 10px;
+}
+.img-all {
+  width: 17rem;
+  height: 12rem;
+  margin-top: 10px !important;
+  padding-right: 10px !important;
+}
+.all-card {
+  display: flex;
+  justify-content: center;
+}
+.nav-bar {
+  margin: 1rem;
+  padding: 1rem;
+  text-decoration: none !important;
+}
+.activeLink {
+  background-color: #df7232;
+  color: #fff;
+}
+.active-link:hover {
+  background-color: #df7232;
+  color: #fff;
+}
+.text-center {
+  text-transform: uppercase;
+}
