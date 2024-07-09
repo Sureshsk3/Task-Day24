@@ -32,3 +32,18 @@
 .text-center {
   text-transform: uppercase;
 }
+
+.active{
+  color: #fff;
+  background-color: #000;
+  text-decoration: none;
+  margin: 3px;
+  padding: 10px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.nav-item{
+  color: #fff;
+  text-decoration: none;
+}

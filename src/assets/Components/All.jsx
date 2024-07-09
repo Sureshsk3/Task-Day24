@@ -5,7 +5,7 @@ function All() {
   let [data, setData] = useState([
     {
       id: 1,
-      img: "./../../../public/img/python/Phython.jpeg",
+      img:'/img/python/AI.jpeg',
       title: "Python with IIT Certification",
       description:
         "The “Python with IIT Certification” course offered by GUVI is an exceptional opportunity for learners to delve into the world of Python programming.",
