@@ -12,21 +12,21 @@ function All() {
     },
     {
       id: 2,
-      img: "./../../../public/img/python/ChatGpt.jpg",
+      img: "/img/python/Chatgpt.jpeg",
       title: "ChatGPT for Everyone",
       description:
         "“ChatGPT for Everyone” is a course designed to introduce learners to the groundbreaking world of ChatGPT, an AI language model revolutionizing the way.",
     },
     {
       id: 3,
-      img: "./../../../public/img/python/Data.jpeg",
+      img: "/img/python/Data.jpeg",
       title: "Introduction to Data Engineering and Big Data",
       description:
         "The “Introduction to Data Engineering and Big Data” course offered by GUVI is a comprehensive program designed to equip learners with the essential skills required in the field.",
     },
     {
       id: 4,
-      img: "./../../../public/img/python/AI.jpeg",
+      img: "/img/python/AI.jpeg",
       title: "Generative AI",
       description:
         "Generative AI, or gen AI, represents a branch of artificial intelligence that focuses on creating new data and content.Unlike traditional AI models that primarily analyze and predict.",
